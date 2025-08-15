@@ -1,4 +1,4 @@
-# DumbLang - BrainFuck Clone
+# DumbLang - A bad simpler BrainFuck clone
 
 A tiny Zig interpreter that reads a file and understands to `+`, `-`, or `.`.
 
