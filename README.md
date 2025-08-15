@@ -54,7 +54,7 @@ python3 helper.py
 ```
 2. Run the Zig interpreter:
 ```sh
-zig run main.zig -- program.txt
+zig run main.zig -- main.dumb
 ```
 
 ## Why?
